@@ -15,7 +15,7 @@ function Investor() {
         </div>
 
         <p className="text-black text-justify md:text-center text-xl font-thin font-lato pt-4 md:pt-8 md:w-[72%]">
-          Invest with us and be part of our herbal hair oil company's journey.
+          Invest with us and be part of our herbal hair oil company&apos;s journey.
           Benefit from the rising demand for natural beauty products and join us
           in redefining the industry.
         </p>
