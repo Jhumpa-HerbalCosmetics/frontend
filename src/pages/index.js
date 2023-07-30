@@ -9,10 +9,12 @@ import Investor from '../components/Investor';
 import ProdOne from '../components/ProdOne';
 import ProdTwo from '../components/ProdTwo';
 import ProdThree from '../components/ProdThree';
+import Seo from '@/components/Seo';
 
 function App() {
   return (
     <div className="w-full h-full webColor relative">
+      <Seo />
       <Navbar />
       <Home />
       <Products />
